@@ -6,14 +6,5 @@
     "dbaeumer.vscode-eslint",
     "editorconfig.editorconfig",
     "hbenl.vscode-mocha-test-adapter"
-],
-"features": {
-	"ghcr.io/devcontainers/features/node:1": {
-		"nodeGypDependencies": true,
-		"version": "18"
-	},
-	"ghcr.io/devcontainers-contrib/features/typescript:2": {
-		"version": "latest"
-	}
-}
+  ]
 }
